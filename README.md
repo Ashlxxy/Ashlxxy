@@ -1,5 +1,22 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:260000,100:b30000&height=150&text=Hi,%20I'm%20Ade%20Rainhard&fontSize=50&fontColor=fdd935&fontAlignY=45&animation=twinkling&desc=A%20Full%20Stack%20Web%20Developer&descSize=30&descAlignY=85&section=header" />
 
+<p align="center">
+  <img src="./assets/ade-rainhard-profile.jpg" width="230" alt="Ade Rainhard Pasaribu" style="border-radius:50%;" />
+</p>
+
+<h2 align="center">Ade Rainhard Pasaribu</h2>
+
+<p align="center">
+  Full Stack Web Developer · Telkom University · Bandung, Indonesia
+</p>
+
+<p align="center">
+  <a href="https://rainhard.my.id">Website</a> ·
+  <a href="https://www.instagram.com/aderainhard">Instagram</a> ·
+  <a href="https://www.linkedin.com/in/ade-rainhard-pasaribu-42426432a">LinkedIn</a> ·
+  <a href="https://www.tiktok.com/@ashlxy8?is_from_webapp=1&sender_device=pc">TikTok</a>
+</p>
+
 I'm Ade Rainhard Pasaribu, a student at **Telkom University** based in **Bandung, Indonesia**. I have a strong interest in full-stack web development, modern UI engineering, interactive web experiences, and creative technology. I enjoy building products that are clean, responsive, useful, and visually engaging.
 
 I focus on creating web applications that combine strong frontend experiences with reliable backend architecture. My current stack includes JavaScript, TypeScript, React, Next.js, Node.js, Tailwind CSS, and modern deployment platforms. I like learning fast, experimenting with new tools, and turning ideas into polished digital experiences.
