@@ -52,6 +52,10 @@ I enjoy working across the full stack: designing polished UI, building APIs, int
 ### Statistics
 
 <p align="center">
+  <img src="./gh-space-shooter.gif" alt="GitHub contribution space shooter" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashlxxy&theme=github_dark" alt="GitHub Profile Details" />
 </p>
 
