@@ -61,4 +61,8 @@ I enjoy working across the full stack: designing polished UI, building APIs, int
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ashlxxy&theme=github_dark&utcOffset=7" alt="Productive Time" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,55:0f766e,100:020617&height=110&section=footer" />
