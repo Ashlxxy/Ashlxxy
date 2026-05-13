@@ -1,13 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:260000,100:b30000&height=150&text=Hi,%20I'm%20Ade%20Rainhard&fontSize=50&fontColor=fdd935&fontAlignY=45&animation=twinkling&desc=A%20Full%20Stack%20Web%20Developer&descSize=30&descAlignY=85&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f766e,100:38bdf8&height=170&text=Ade%20Rainhard%20Pasaribu&fontSize=44&fontColor=e0f2fe&fontAlignY=42&animation=fadeIn&desc=Full%20Stack%20Web%20Developer%20%7C%20Creative%20Technologist&descSize=20&descAlignY=72&descColor=99f6e4&section=header" />
 
 <p align="center">
   <img src="./assets/ade-rainhard-profile.jpg" width="230" alt="Ade Rainhard Pasaribu" />
 </p>
 
-<h2 align="center">Ade Rainhard Pasaribu</h2>
+<h2 align="center">Hi, I'm Ade Rainhard</h2>
 
 <p align="center">
-  Full Stack Web Developer | Telkom University | Bandung, Indonesia
+  <strong>Full Stack Web Developer</strong> | Telkom University | Bandung, Indonesia
 </p>
 
 <p align="center">
@@ -17,17 +17,17 @@
   <a href="https://www.tiktok.com/@ashlxy8?is_from_webapp=1&sender_device=pc">TikTok</a>
 </p>
 
-I'm Ade Rainhard Pasaribu, a student at **Telkom University** based in **Bandung, Indonesia**. I have a strong interest in full-stack web development, modern UI engineering, interactive web experiences, and creative technology. I enjoy building products that are clean, responsive, useful, and visually engaging.
+I'm Ade Rainhard Pasaribu, a student at **Telkom University** based in **Bandung, Indonesia**. I build modern web applications with a focus on clean interfaces, strong frontend architecture, reliable backend logic, and interactive digital experiences.
 
-I focus on creating web applications that combine strong frontend experiences with reliable backend architecture. My current stack includes JavaScript, TypeScript, React, Next.js, Node.js, Tailwind CSS, and modern deployment platforms. I like learning fast, experimenting with new tools, and turning ideas into polished digital experiences.
+I enjoy working across the full stack: designing polished UI, building APIs, integrating databases, experimenting with 3D/animation, and deploying production-ready apps. My goal is to create products that feel professional, fast, and useful.
 
-[![Website Badge](https://img.shields.io/badge/-rainhard.my.id-fdd935?style=flat&labelColor=7f1d1d&logo=vercel&logoColor=white)](https://rainhard.my.id)
-[![Mail Badge](https://img.shields.io/badge/-aderainhardp@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:aderainhardp@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-@aderainhard-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://www.instagram.com/aderainhard)
-[![LinkedIn Badge](https://img.shields.io/badge/-in/aderainhardp-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ade-rainhard-pasaribu-42426432a)
-[![TikTok Badge](https://img.shields.io/badge/-De-171717?style=flat&labelColor=171717&logo=tiktok&logoColor=white)](https://www.tiktok.com/@ashlxy8?is_from_webapp=1&sender_device=pc)
-[![Profile Views](https://komarev.com/ghpvc/?username=Ashlxxy&color=blue&label=Profile%20Views)](https://github.com/Ashlxxy)
-[![GitHub Followers](https://img.shields.io/github/followers/Ashlxxy?label=GitHub%20Followers)](https://github.com/Ashlxxy)
+[![Website Badge](https://img.shields.io/badge/-rainhard.my.id-0f766e?style=flat&labelColor=020617&logo=vercel&logoColor=white)](https://rainhard.my.id)
+[![Mail Badge](https://img.shields.io/badge/-aderainhardp@gmail.com-ef4444?style=flat&labelColor=020617&logo=gmail&logoColor=white)](mailto:aderainhardp@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-@aderainhard-e879f9?style=flat&labelColor=020617&logo=instagram&logoColor=white)](https://www.instagram.com/aderainhard)
+[![LinkedIn Badge](https://img.shields.io/badge/-in/aderainhardp-38bdf8?style=flat&labelColor=020617&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ade-rainhard-pasaribu-42426432a)
+[![TikTok Badge](https://img.shields.io/badge/-De-ffffff?style=flat&labelColor=020617&logo=tiktok&logoColor=white)](https://www.tiktok.com/@ashlxy8?is_from_webapp=1&sender_device=pc)
+[![Profile Views](https://komarev.com/ghpvc/?username=Ashlxxy&color=0e7490&label=Profile%20Views)](https://github.com/Ashlxxy)
+[![GitHub Followers](https://img.shields.io/github/followers/Ashlxxy?label=GitHub%20Followers&style=flat&labelColor=020617&color=14b8a6)](https://github.com/Ashlxxy)
 
 ### Core Tech Stacks
 
@@ -47,10 +47,18 @@ I focus on creating web applications that combine strong frontend experiences wi
 
 ### Statistics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashlxxy&theme=maroongold&show_icons=true)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashlxxy&theme=github_dark" alt="GitHub Profile Details" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashlxxy&card_width=495&langs_count=8&layout=compact&theme=maroongold)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashlxxy&theme=github_dark" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ashlxxy&theme=github_dark" alt="Top Languages by Commit" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Ashlxxy&theme=maroongold)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ashlxxy&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ashlxxy&theme=github_dark&utcOffset=7" alt="Productive Time" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:260000,100:b30000&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,55:0f766e,100:020617&height=110&section=footer" />
