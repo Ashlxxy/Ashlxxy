@@ -29,6 +29,10 @@ I enjoy working across the full stack: designing polished UI, building APIs, int
 [![Profile Views](https://komarev.com/ghpvc/?username=Ashlxxy&color=0e7490&label=Profile%20Views)](https://github.com/Ashlxxy)
 [![GitHub Followers](https://img.shields.io/github/followers/Ashlxxy?label=GitHub%20Followers&style=flat&labelColor=020617&color=14b8a6)](https://github.com/Ashlxxy)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
 ### Core Tech Stacks
 
 ![Core Skills](https://skillicons.dev/icons?i=ts,js,react,next,nodejs,tailwind,threejs)
@@ -59,10 +63,6 @@ I enjoy working across the full stack: designing polished UI, building APIs, int
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ashlxxy&theme=github_dark" alt="GitHub Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ashlxxy&theme=github_dark&utcOffset=7" alt="Productive Time" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,55:0f766e,100:020617&height=110&section=footer" />
