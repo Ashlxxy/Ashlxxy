@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f766e,100:38bdf8&height=170&text=Ade%20Rainhard%20Pasaribu&fontSize=44&fontColor=e0f2fe&fontAlignY=42&animation=fadeIn&desc=Full%20Stack%20Web%20Developer%20%7C%20Creative%20Technologist&descSize=20&descAlignY=72&descColor=99f6e4&section=header" />
 
 <p align="center">
-  <img src="./assets/ade-rainhard-profile.jpg" width="230" alt="Ade Rainhard Pasaribu" />
+  <img src="" width="230" alt="Ade Rainhard Pasaribu" />
 </p>
 
 <h2 align="center">Hi, I'm Ade Rainhard</h2>
